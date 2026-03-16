@@ -1,7 +1,7 @@
 ---
 title: "第一篇文章"
 description: "Astro Paper 博客測試"
-pubDate: "2026-03-16"
+pubDatetime: "2026-03-16"
 tags: ["blog", "astro", "test"]
 ---
 
